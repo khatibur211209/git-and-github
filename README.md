@@ -42,6 +42,7 @@ Assalamu Alaikum, This is Abdullah Nazmus-Sakib
 Hello this is Niloy here
 
 Hello I am Ameer Talha
+I'm from Dhaka
 
 Assalamu Alaikum, this is Tamim here
 
