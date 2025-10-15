@@ -22,8 +22,7 @@ hello i am audity
 
 Hello I am Farhan
 
-Hello I am Md. Mahbub Uddin Mithu
-I'm from Dhaka
+Hello I am Md. Mahbub Uddin Mithu I'm from Dhaka
 
 hello,this is shobuz from badda.
 welcome once again
@@ -43,6 +42,8 @@ hello i am naeem khandakar
 Assalamu Alaikum, This is Abdullah Nazmus-Sakib
 
 Hello this is Niloy here
+
+Assalamu Alaikum, This is, Abdullah Nazmus-Sakib From JU, CSE.
 
 Hello this is Nazma
 
@@ -78,9 +79,13 @@ Hello,BongoDev.This is Debashis
 
 This is Fabiha
 
-This is Musfiq
-Im from Bogra.
+This is Musfiq Im from Bogra.
 
+This Is Shakil Hussain I'm from Dhaka.
+
+This is Tirtha
+
+I'm from Dhaka
 This Salman Rahman
 From Mirpur
 
