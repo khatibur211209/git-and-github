@@ -34,6 +34,9 @@ This is Fabiha
 This is Musfiq
 Im from Bogra.
 
+This is Hafiz
+From Dhaka.
+
 This Is Shakil Hussain
 I'm from Dhaka.
 
