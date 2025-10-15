@@ -64,6 +64,8 @@ This is,
 Abdullah Nazmus-Sakib
 From JU, CSE.
 
+Hello I am Tamjidul Islam Mohim(Ju CSE-51)
+
 Assalamu Walaikum friends. I am Tanvir Alam from Ramgonj, Lakshmipur.
 
 Hello,BongoDev.This is Debashis
