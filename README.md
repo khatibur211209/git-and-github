@@ -41,6 +41,8 @@ Assalamu Alaikum, This is Abdullah Nazmus-Sakib
 
 Hello this is Niloy here
 
+Hello I am Ameer Talha
+
 Assalamu Alaikum, this is Tamim here
 
 Assalamu Alaikum.
@@ -78,5 +80,3 @@ Hello I am Mashiyat
 
 Hey This is Dipak Roy. I am From Dhaka Bangladesh
 
-Hello This is Dipak Roy here
-I am from Dhaka Bangladesh
