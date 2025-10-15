@@ -95,6 +95,8 @@ From Dhaka.
 This Is Shakil Hussain
 I'm from Dhaka.
 
+BIPRO FROM MIRPUR
+
 This is Md. Ashaful Alam
 I'm from Gazipur
 
